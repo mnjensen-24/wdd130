@@ -1,0 +1,27 @@
+nav {
+    background-color: hotpink;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(255, 0, 128);
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid hotpink;
+    padding: 2px;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+p {
+    padding: 10px;
+}
+
