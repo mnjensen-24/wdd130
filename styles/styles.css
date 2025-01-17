@@ -1,12 +1,12 @@
 nav {
     background-color: rgb(255, 0, 128);
-    padding: 10px;
+    padding: 0;
 }
 
 nav a {
     color: white;
     display: block;
-    padding: 20px;
+    padding: 0;
 }
 
 h1 {
@@ -18,7 +18,7 @@ main img {
     height: auto;
     margin: auto;
     border: 1px solid hotpink;
-    padding: 2px;
+    padding: 0;
     box-shadow: 0 0 30px rgb(0, 0, 0);
 }
 
@@ -36,7 +36,7 @@ aside {
     margin: auto;
     border: 2px solid purple;
     box-shadow: 0 0 30px black;
-    padding: 10px;
+    padding: 0;
     background-color: rgb(255, 212, 233);
     color: rgb(0, 0, 0);
     text-align: center;
@@ -47,7 +47,7 @@ aside img {
     height: auto;
     border: 1px solid hotpink;
     box-shadow: 0 0 30px rgb(0, 0, 0);
-    padding: 2px;
+    padding: 0;
 }
 
 footer {
