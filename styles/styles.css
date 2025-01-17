@@ -1,5 +1,5 @@
 nav {
-    background-color: hotpink;
+    background-color: rgb(255, 0, 128);
     padding: 10px;
 }
 
@@ -10,18 +10,48 @@ nav a {
 }
 
 h1 {
-    color: rgb(255, 0, 128);
+    color: hotpink;
 }
 
-img {
+main img {
     width: 150px;
     height: auto;
+    margin: auto;
     border: 1px solid hotpink;
     padding: 2px;
     box-shadow: 0 0 30px rgb(0, 0, 0);
 }
 
 p {
-    padding: 10px;
+    padding: 0px;
 }
 
+main {
+    max-width:fit-content;
+    margin: auto;
+}
+
+aside {
+    width: 800px;
+    margin: auto;
+    border: 2px solid purple;
+    box-shadow: 0 0 30px black;
+    padding: 10px;
+    background-color: rgb(255, 212, 233);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+    border: 1px solid hotpink;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    padding: 2px;
+}
+
+footer {
+    margin-top: 20px;
+    border-top: 1px solid black;
+    text-align: center;
+}
