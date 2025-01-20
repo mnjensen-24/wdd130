@@ -14,13 +14,8 @@
 }
 
 nav {
-<<<<<<< HEAD
     background-color: #60435f;
     padding: 10px;
-=======
-    background-color: rgb(255, 0, 128);
-    padding: 0;
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
 }
 
 nav a {
@@ -40,10 +35,6 @@ main img {
     width: 200px;
     height: auto;
     border: 1px solid hotpink;
-<<<<<<< HEAD
-=======
-    padding: 0;
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
     box-shadow: 0 0 30px rgb(0, 0, 0);
     padding: var(--padding);
     margin: auto;
@@ -51,11 +42,7 @@ main img {
 }
 
 p {
-<<<<<<< HEAD
     padding: var(--padding);
-=======
-    padding: 0;
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
 }
 
 main {
@@ -68,11 +55,7 @@ aside {
     margin: auto;
     border: 2px solid purple;
     box-shadow: 0 0 30px black;
-<<<<<<< HEAD
     padding: var(--padding);
-=======
-    padding: 0;
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
     background-color: rgb(255, 212, 233);
     color: rgb(0, 0, 0);
     text-align: center;
@@ -89,11 +72,7 @@ aside img {
     height: auto;
     border: 1px solid hotpink;
     box-shadow: 0 0 30px rgb(0, 0, 0);
-<<<<<<< HEAD
     padding: var(--padding);
-=======
-    padding: 0;
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
 }
 
 footer {
@@ -101,7 +80,6 @@ footer {
     border-top: 1px solid black;
     text-align: center;
 }
-<<<<<<< HEAD
 
 /* Class Selectors */
 
@@ -112,5 +90,3 @@ footer {
     background-color: var(--backgroud-color);
     color: black;
 }
-=======
->>>>>>> 085d86d40719d17848e9388a42d8642ffc82fcbf
